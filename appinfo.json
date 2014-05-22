@@ -1,0 +1,20 @@
+{
+  "uuid": "665c1152-6c66-4e09-b54b-0cc977566a7f",
+  "shortName": "network-usage",
+  "longName": "network-usage",
+  "companyName": "@haeky",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "percentage": 0,
+    "room": 1,
+    "data": 2,
+    "days": 3
+  },
+  "resources": {
+    "media": []
+  }
+}
